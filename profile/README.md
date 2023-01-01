@@ -30,6 +30,7 @@ https://github.com/orgs/SideStore/people
 ## Links
 
 - Homepage https://sidestore.io
+- Discord https://discord.gg/CacsuuzsBq
 - Twitter https://twitter.com/sidestore_io
 <!--
 - Patreon https://www.patreon.com/TODO
