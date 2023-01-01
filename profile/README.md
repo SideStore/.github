@@ -20,7 +20,7 @@ The team that builds `SideStore.app` and related projects.
 -->
 
 [<img align="left" alt="sidestore.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Discord | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discore]
+[<img align="left" alt="Discord | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 [<img align="left" alt="Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
@@ -61,11 +61,8 @@ https://github.com/orgs/SideStore/people
 
 ---
 
-## Links
+<p>[Homepage][patreon] [Discord][discord] [Twitter][twitter]</p>
 
-- [Homepage][patreon]
-- [Discord][discord]
-- [Twitter][twitter]
 <!--
 - [Patreon][patreon]
 - [OpenCollective][opencollective]
