@@ -74,7 +74,7 @@ https://github.com/orgs/SideStore/people
 [twitter]: https://twitter.com/sidestore_io
 [discord]: https://discord.gg/CacsuuzsBq
 [youtube]: https://youtube.com/TODO
-[patreon]: https://www.patreon.com/TODO
+[patreon]: https://www.patreon.com/SideStore
 [opencollective]: https://opencollective.com/TODO
 [git.sidestore]: https://github.com/SideStore/SideStore/
 [git.sidekit]: https://github.com/SideStore/SideKit
