@@ -55,8 +55,8 @@ https://github.com/orgs/SideStore/people
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16](https://github.com/SideStore/sidestore.github.io/issues/16) in [SideStore/sidestore.github.io](https://github.com/SideStore/sidestore.github.io)
-2. 💪 Opened PR [#1](https://github.com/SideStore/.github/pull/1) in [SideStore/.github](https://github.com/SideStore/.github)
+1. ❌ Closed PR [#2518](https://github.com/npm/npm-expansions/pull/2518) in [npm/npm-expansions](https://github.com/npm/npm-expansions)
+2. ❌ Closed PR [#1](https://github.com/IamEld3st/RLBotJSBuild/pull/1) in [IamEld3st/RLBotJSBuild](https://github.com/IamEld3st/RLBotJSBuild)
 <!--END_SECTION:activity-->
 
 </details>
