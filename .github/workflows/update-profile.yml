@@ -16,7 +16,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           MAX_LINES: 20
-          TARGET_FILE: profile/README.md
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
