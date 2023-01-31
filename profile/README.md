@@ -55,6 +55,26 @@ https://github.com/orgs/SideStore/people
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#239](https://github.com/SideStore/SideStore/issues/239) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+2. 🎉 Merged PR [#1](https://github.com/SideStore/.github/pull/1) in [SideStore/.github](https://github.com/SideStore/.github)
+3. 🗣 Commented on [#243](https://github.com/SideStore/SideStore/issues/243) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+4. 🗣 Commented on [#221](https://github.com/SideStore/SideStore/issues/221) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+5. ❗️ Closed issue [#244](https://github.com/SideStore/SideStore/issues/244) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+6. 🗣 Commented on [#244](https://github.com/SideStore/SideStore/issues/244) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+7. 🗣 Commented on [#170](https://github.com/SideStore/SideStore/issues/170) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+8. ❗️ Closed issue [#243](https://github.com/SideStore/SideStore/issues/243) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+9. 🗣 Commented on [#243](https://github.com/SideStore/SideStore/issues/243) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+10. 🗣 Commented on [#221](https://github.com/SideStore/SideStore/issues/221) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+11. 🗣 Commented on [#221](https://github.com/SideStore/SideStore/issues/221) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+12. 🗣 Commented on [#245](https://github.com/SideStore/SideStore/issues/245) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+13. ❗️ Opened issue [#246](https://github.com/SideStore/SideStore/issues/246) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+14. 🗣 Commented on [#217](https://github.com/SideStore/SideStore/issues/217) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+15. 💪 Opened PR [#245](https://github.com/SideStore/SideStore/pull/245) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+16. ❗️ Opened issue [#244](https://github.com/SideStore/SideStore/issues/244) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+17. ❗️ Reopened issue [#243](https://github.com/SideStore/SideStore/issues/243) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+18. ❗️ Closed issue [#243](https://github.com/SideStore/SideStore/issues/243) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+19. ❗️ Opened issue [#243](https://github.com/SideStore/SideStore/issues/243) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+20. 💪 Opened PR [#2](https://github.com/SideStore/minimuxer/pull/2) in [SideStore/minimuxer](https://github.com/SideStore/minimuxer)
 <!--END_SECTION:activity-->
 
 </details>
