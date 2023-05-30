@@ -55,13 +55,13 @@ https://github.com/orgs/SideStore/people
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#369](https://github.com/SideStore/SideStore/issues/369) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-2. 🗣 Commented on [#368](https://github.com/SideStore/SideStore/issues/368) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-3. 🗣 Commented on [#344](https://github.com/SideStore/SideStore/issues/344) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+1. 🗣 Commented on [#2](https://github.com/SideStore/omnisette-server/issues/2) in [SideStore/omnisette-server](https://github.com/SideStore/omnisette-server)
+2. 🗣 Commented on [#369](https://github.com/SideStore/SideStore/issues/369) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+3. 🗣 Commented on [#368](https://github.com/SideStore/SideStore/issues/368) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 4. 🗣 Commented on [#344](https://github.com/SideStore/SideStore/issues/344) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 5. 🗣 Commented on [#344](https://github.com/SideStore/SideStore/issues/344) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-6. 🗣 Commented on [#368](https://github.com/SideStore/SideStore/issues/368) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-7. 🗣 Commented on [#369](https://github.com/SideStore/SideStore/issues/369) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+6. 🗣 Commented on [#344](https://github.com/SideStore/SideStore/issues/344) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+7. 🗣 Commented on [#368](https://github.com/SideStore/SideStore/issues/368) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 8. ❗️ Opened issue [#369](https://github.com/SideStore/SideStore/issues/369) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 9. 🗣 Commented on [#368](https://github.com/SideStore/SideStore/issues/368) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 10. 🎉 Merged PR [#9](https://github.com/SideStore/apps.json/pull/9) in [SideStore/apps.json](https://github.com/SideStore/apps.json)
