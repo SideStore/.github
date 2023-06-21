@@ -55,15 +55,15 @@ https://github.com/orgs/SideStore/people
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#395](https://github.com/SideStore/SideStore/issues/395) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-2. 🗣 Commented on [#395](https://github.com/SideStore/SideStore/issues/395) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-3. ❗️ Closed issue [#348](https://github.com/SideStore/SideStore/issues/348) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-4. 🗣 Commented on [#348](https://github.com/SideStore/SideStore/issues/348) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-5. ❗️ Closed issue [#132](https://github.com/SideStore/SideStore/issues/132) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-6. 🗣 Commented on [#132](https://github.com/SideStore/SideStore/issues/132) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-7. 🗣 Commented on [#395](https://github.com/SideStore/SideStore/issues/395) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-8. ❗️ Opened issue [#395](https://github.com/SideStore/SideStore/issues/395) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-9. 🗣 Commented on [#394](https://github.com/SideStore/SideStore/issues/394) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+1. ❗️ Opened issue [#396](https://github.com/SideStore/SideStore/issues/396) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+2. ❗️ Closed issue [#395](https://github.com/SideStore/SideStore/issues/395) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+3. 🗣 Commented on [#395](https://github.com/SideStore/SideStore/issues/395) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+4. ❗️ Closed issue [#348](https://github.com/SideStore/SideStore/issues/348) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+5. 🗣 Commented on [#348](https://github.com/SideStore/SideStore/issues/348) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+6. ❗️ Closed issue [#132](https://github.com/SideStore/SideStore/issues/132) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+7. 🗣 Commented on [#132](https://github.com/SideStore/SideStore/issues/132) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+8. 🗣 Commented on [#395](https://github.com/SideStore/SideStore/issues/395) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+9. ❗️ Opened issue [#395](https://github.com/SideStore/SideStore/issues/395) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 10. 🗣 Commented on [#394](https://github.com/SideStore/SideStore/issues/394) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 11. 🗣 Commented on [#394](https://github.com/SideStore/SideStore/issues/394) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 12. 🗣 Commented on [#394](https://github.com/SideStore/SideStore/issues/394) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
@@ -71,10 +71,10 @@ https://github.com/orgs/SideStore/people
 14. 🗣 Commented on [#394](https://github.com/SideStore/SideStore/issues/394) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 15. 🗣 Commented on [#394](https://github.com/SideStore/SideStore/issues/394) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 16. 🗣 Commented on [#394](https://github.com/SideStore/SideStore/issues/394) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-17. ❗️ Opened issue [#394](https://github.com/SideStore/SideStore/issues/394) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-18. 🗣 Commented on [#7](https://github.com/SideStore/omnisette-server/issues/7) in [SideStore/omnisette-server](https://github.com/SideStore/omnisette-server)
-19. ❗️ Opened issue [#7](https://github.com/SideStore/omnisette-server/issues/7) in [SideStore/omnisette-server](https://github.com/SideStore/omnisette-server)
-20. 🗣 Commented on [#393](https://github.com/SideStore/SideStore/issues/393) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+17. 🗣 Commented on [#394](https://github.com/SideStore/SideStore/issues/394) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+18. ❗️ Opened issue [#394](https://github.com/SideStore/SideStore/issues/394) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+19. 🗣 Commented on [#7](https://github.com/SideStore/omnisette-server/issues/7) in [SideStore/omnisette-server](https://github.com/SideStore/omnisette-server)
+20. ❗️ Opened issue [#7](https://github.com/SideStore/omnisette-server/issues/7) in [SideStore/omnisette-server](https://github.com/SideStore/omnisette-server)
 <!--END_SECTION:activity-->
 
 </details>
