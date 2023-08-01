@@ -92,7 +92,7 @@ https://github.com/orgs/SideStore/people
 [website]: https://sidestore.io
 [wiki]: https://wiki.sidestore.io
 [twitter]: https://twitter.com/sidestore_io
-[discord]: https://discord.gg/CacsuuzsBq
+[discord]: https://discord.gg/SideStore
 [youtube]: https://youtube.com/TODO
 [patreon]: https://www.patreon.com/SideStore
 [opencollective]: https://opencollective.com/TODO
