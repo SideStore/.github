@@ -55,9 +55,9 @@ https://github.com/orgs/SideStore/people
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#473](https://github.com/SideStore/SideStore/issues/473) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+1. 🗣 Commented on [#471](https://github.com/SideStore/SideStore/issues/471) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 2. 🗣 Commented on [#471](https://github.com/SideStore/SideStore/issues/471) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-3. 🗣 Commented on [#471](https://github.com/SideStore/SideStore/issues/471) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+3. ❗️ Opened issue [#473](https://github.com/SideStore/SideStore/issues/473) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 4. 🗣 Commented on [#471](https://github.com/SideStore/SideStore/issues/471) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 5. 🗣 Commented on [#471](https://github.com/SideStore/SideStore/issues/471) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 6. 🗣 Commented on [#471](https://github.com/SideStore/SideStore/issues/471) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
@@ -65,15 +65,15 @@ https://github.com/orgs/SideStore/people
 8. 🗣 Commented on [#471](https://github.com/SideStore/SideStore/issues/471) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 9. 🗣 Commented on [#471](https://github.com/SideStore/SideStore/issues/471) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 10. 🗣 Commented on [#471](https://github.com/SideStore/SideStore/issues/471) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-11. 🗣 Commented on [#472](https://github.com/SideStore/SideStore/issues/472) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+11. 🗣 Commented on [#471](https://github.com/SideStore/SideStore/issues/471) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 12. 🗣 Commented on [#471](https://github.com/SideStore/SideStore/issues/471) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-13. 🗣 Commented on [#471](https://github.com/SideStore/SideStore/issues/471) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+13. 🗣 Commented on [#472](https://github.com/SideStore/SideStore/issues/472) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 14. 🗣 Commented on [#471](https://github.com/SideStore/SideStore/issues/471) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 15. 🗣 Commented on [#471](https://github.com/SideStore/SideStore/issues/471) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-16. 🗣 Commented on [#472](https://github.com/SideStore/SideStore/issues/472) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-17. ❗️ Opened issue [#472](https://github.com/SideStore/SideStore/issues/472) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-18. 🗣 Commented on [#471](https://github.com/SideStore/SideStore/issues/471) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-19. 🗣 Commented on [#471](https://github.com/SideStore/SideStore/issues/471) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+16. 🗣 Commented on [#471](https://github.com/SideStore/SideStore/issues/471) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+17. 🗣 Commented on [#471](https://github.com/SideStore/SideStore/issues/471) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+18. 🗣 Commented on [#472](https://github.com/SideStore/SideStore/issues/472) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+19. ❗️ Opened issue [#472](https://github.com/SideStore/SideStore/issues/472) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 20. 🗣 Commented on [#471](https://github.com/SideStore/SideStore/issues/471) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 <!--END_SECTION:activity-->
 
