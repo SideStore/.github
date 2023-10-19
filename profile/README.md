@@ -41,11 +41,11 @@ __Developer tools for JIT and more__
 
 [SideKit][git.sidekit]
 
-### Documenation
+### Documentation
 
 [Wiki][wiki]
 
-## Our members
+## Our members of the team
 
 https://github.com/orgs/SideStore/people
 
