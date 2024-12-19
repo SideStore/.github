@@ -55,15 +55,15 @@ https://github.com/orgs/SideStore/people
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#737](https://github.com/SideStore/SideStore/issues/737) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-2. 🗣 Commented on [#694](https://github.com/SideStore/SideStore/issues/694) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-3. 🗣 Commented on [#737](https://github.com/SideStore/SideStore/issues/737) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-4. 🗣 Commented on [#768](https://github.com/SideStore/SideStore/issues/768) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+1. ❗️ Opened issue [#802](https://github.com/SideStore/SideStore/issues/802) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+2. 🗣 Commented on [#737](https://github.com/SideStore/SideStore/issues/737) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+3. 🗣 Commented on [#694](https://github.com/SideStore/SideStore/issues/694) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+4. 🗣 Commented on [#737](https://github.com/SideStore/SideStore/issues/737) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 5. 🗣 Commented on [#768](https://github.com/SideStore/SideStore/issues/768) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 6. 🗣 Commented on [#768](https://github.com/SideStore/SideStore/issues/768) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-7. 🗣 Commented on [#734](https://github.com/SideStore/SideStore/issues/734) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+7. 🗣 Commented on [#768](https://github.com/SideStore/SideStore/issues/768) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 8. 🗣 Commented on [#734](https://github.com/SideStore/SideStore/issues/734) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-9. ❌ Closed PR [#278](https://github.com/SideStore/SideStore/pull/278) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+9. 🗣 Commented on [#734](https://github.com/SideStore/SideStore/issues/734) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 10. 🗣 Commented on [#45](https://github.com/SideStore/SideStore-Docs/issues/45) in [SideStore/SideStore-Docs](https://github.com/SideStore/SideStore-Docs)
 11. 🗣 Commented on [#45](https://github.com/SideStore/SideStore-Docs/issues/45) in [SideStore/SideStore-Docs](https://github.com/SideStore/SideStore-Docs)
 12. 💪 Opened PR [#45](https://github.com/SideStore/SideStore-Docs/pull/45) in [SideStore/SideStore-Docs](https://github.com/SideStore/SideStore-Docs)
