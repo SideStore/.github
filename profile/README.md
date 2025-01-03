@@ -55,14 +55,14 @@ https://github.com/orgs/SideStore/people
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#11](https://github.com/SideStore/anisette-servers/pull/11) in [SideStore/anisette-servers](https://github.com/SideStore/anisette-servers)
-2. 🗣 Commented on [#11](https://github.com/SideStore/anisette-servers/issues/11) in [SideStore/anisette-servers](https://github.com/SideStore/anisette-servers)
-3. 🗣 Commented on [#827](https://github.com/SideStore/SideStore/issues/827) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-4. 💪 Opened PR [#11](https://github.com/SideStore/anisette-servers/pull/11) in [SideStore/anisette-servers](https://github.com/SideStore/anisette-servers)
-5. ❗️ Opened issue [#827](https://github.com/SideStore/SideStore/issues/827) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-6. 🗣 Commented on [#733](https://github.com/SideStore/SideStore/issues/733) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-7. 🗣 Commented on [#822](https://github.com/SideStore/SideStore/issues/822) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-8. 🗣 Commented on [#822](https://github.com/SideStore/SideStore/issues/822) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+1. 🗣 Commented on [#822](https://github.com/SideStore/SideStore/issues/822) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+2. 🗣 Commented on [#822](https://github.com/SideStore/SideStore/issues/822) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+3. ❌ Closed PR [#11](https://github.com/SideStore/anisette-servers/pull/11) in [SideStore/anisette-servers](https://github.com/SideStore/anisette-servers)
+4. 🗣 Commented on [#11](https://github.com/SideStore/anisette-servers/issues/11) in [SideStore/anisette-servers](https://github.com/SideStore/anisette-servers)
+5. 🗣 Commented on [#827](https://github.com/SideStore/SideStore/issues/827) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+6. 💪 Opened PR [#11](https://github.com/SideStore/anisette-servers/pull/11) in [SideStore/anisette-servers](https://github.com/SideStore/anisette-servers)
+7. ❗️ Opened issue [#827](https://github.com/SideStore/SideStore/issues/827) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+8. 🗣 Commented on [#733](https://github.com/SideStore/SideStore/issues/733) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 9. 🗣 Commented on [#822](https://github.com/SideStore/SideStore/issues/822) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 10. 🗣 Commented on [#822](https://github.com/SideStore/SideStore/issues/822) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 11. 🗣 Commented on [#822](https://github.com/SideStore/SideStore/issues/822) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
