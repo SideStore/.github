@@ -55,26 +55,26 @@ https://github.com/orgs/SideStore/people
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#831](https://github.com/SideStore/SideStore/issues/831) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+1. 🗣 Commented on [#822](https://github.com/SideStore/SideStore/issues/822) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 2. 🗣 Commented on [#822](https://github.com/SideStore/SideStore/issues/822) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 3. 🗣 Commented on [#822](https://github.com/SideStore/SideStore/issues/822) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 4. 🗣 Commented on [#822](https://github.com/SideStore/SideStore/issues/822) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-5. 🗣 Commented on [#822](https://github.com/SideStore/SideStore/issues/822) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+5. ❗️ Opened issue [#831](https://github.com/SideStore/SideStore/issues/831) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 6. 🗣 Commented on [#822](https://github.com/SideStore/SideStore/issues/822) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 7. 🗣 Commented on [#822](https://github.com/SideStore/SideStore/issues/822) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-8. ❗️ Opened issue [#829](https://github.com/SideStore/SideStore/issues/829) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+8. 🗣 Commented on [#822](https://github.com/SideStore/SideStore/issues/822) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 9. 🗣 Commented on [#822](https://github.com/SideStore/SideStore/issues/822) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 10. 🗣 Commented on [#822](https://github.com/SideStore/SideStore/issues/822) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 11. 🗣 Commented on [#822](https://github.com/SideStore/SideStore/issues/822) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-12. 🗣 Commented on [#822](https://github.com/SideStore/SideStore/issues/822) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+12. ❗️ Opened issue [#829](https://github.com/SideStore/SideStore/issues/829) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 13. 🗣 Commented on [#822](https://github.com/SideStore/SideStore/issues/822) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 14. 🗣 Commented on [#822](https://github.com/SideStore/SideStore/issues/822) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 15. 🗣 Commented on [#822](https://github.com/SideStore/SideStore/issues/822) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-16. 🎉 Merged PR [#61](https://github.com/SideStore/SideStore-Docs/pull/61) in [SideStore/SideStore-Docs](https://github.com/SideStore/SideStore-Docs)
-17. 💪 Opened PR [#61](https://github.com/SideStore/SideStore-Docs/pull/61) in [SideStore/SideStore-Docs](https://github.com/SideStore/SideStore-Docs)
-18. 🗣 Commented on [#825](https://github.com/SideStore/SideStore/issues/825) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+16. 🗣 Commented on [#822](https://github.com/SideStore/SideStore/issues/822) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+17. 🗣 Commented on [#822](https://github.com/SideStore/SideStore/issues/822) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+18. 🗣 Commented on [#822](https://github.com/SideStore/SideStore/issues/822) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 19. 🗣 Commented on [#822](https://github.com/SideStore/SideStore/issues/822) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-20. 🗣 Commented on [#822](https://github.com/SideStore/SideStore/issues/822) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+20. 🎉 Merged PR [#61](https://github.com/SideStore/SideStore-Docs/pull/61) in [SideStore/SideStore-Docs](https://github.com/SideStore/SideStore-Docs)
 <!--END_SECTION:activity-->
 
 </details>
