@@ -55,14 +55,14 @@ https://github.com/orgs/SideStore/people
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#51](https://github.com/SideStore/Community-Source/issues/51) in [SideStore/Community-Source](https://github.com/SideStore/Community-Source)
-2. ❌ Closed PR [#51](https://github.com/SideStore/Community-Source/pull/51) in [SideStore/Community-Source](https://github.com/SideStore/Community-Source)
-3. 🎉 Merged PR [#59](https://github.com/SideStore/Community-Source/pull/59) in [SideStore/Community-Source](https://github.com/SideStore/Community-Source)
-4. ❗️ Opened issue [#873](https://github.com/SideStore/SideStore/issues/873) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-5. 🗣 Commented on [#869](https://github.com/SideStore/SideStore/issues/869) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-6. 🗣 Commented on [#869](https://github.com/SideStore/SideStore/issues/869) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-7. 🗣 Commented on [#869](https://github.com/SideStore/SideStore/issues/869) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-8. 🗣 Commented on [#872](https://github.com/SideStore/SideStore/issues/872) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+1. 🗣 Commented on [#875](https://github.com/SideStore/SideStore/issues/875) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+2. 🗣 Commented on [#875](https://github.com/SideStore/SideStore/issues/875) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+3. 🗣 Commented on [#875](https://github.com/SideStore/SideStore/issues/875) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+4. 🗣 Commented on [#875](https://github.com/SideStore/SideStore/issues/875) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+5. 💪 Opened PR [#875](https://github.com/SideStore/SideStore/pull/875) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+6. 🗣 Commented on [#51](https://github.com/SideStore/Community-Source/issues/51) in [SideStore/Community-Source](https://github.com/SideStore/Community-Source)
+7. ❌ Closed PR [#51](https://github.com/SideStore/Community-Source/pull/51) in [SideStore/Community-Source](https://github.com/SideStore/Community-Source)
+8. 🎉 Merged PR [#59](https://github.com/SideStore/Community-Source/pull/59) in [SideStore/Community-Source](https://github.com/SideStore/Community-Source)
 9. ❗️ Closed issue [#872](https://github.com/SideStore/SideStore/issues/872) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 10. 🗣 Commented on [#855](https://github.com/SideStore/SideStore/issues/855) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 11. ❗️ Closed issue [#855](https://github.com/SideStore/SideStore/issues/855) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
