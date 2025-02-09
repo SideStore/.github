@@ -55,12 +55,12 @@ https://github.com/orgs/SideStore/people
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#139](https://github.com/SideStore/SideStore/issues/139) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-2. 🗣 Commented on [#139](https://github.com/SideStore/SideStore/issues/139) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-3. 🗣 Commented on [#711](https://github.com/SideStore/SideStore/issues/711) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-4. 🗣 Commented on [#711](https://github.com/SideStore/SideStore/issues/711) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-5. 🗣 Commented on [#873](https://github.com/SideStore/SideStore/issues/873) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-6. 🗣 Commented on [#875](https://github.com/SideStore/SideStore/issues/875) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+1. 🗣 Commented on [#877](https://github.com/SideStore/SideStore/issues/877) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+2. ❗️ Opened issue [#877](https://github.com/SideStore/SideStore/issues/877) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+3. 🗣 Commented on [#139](https://github.com/SideStore/SideStore/issues/139) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+4. 🗣 Commented on [#139](https://github.com/SideStore/SideStore/issues/139) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+5. 🗣 Commented on [#711](https://github.com/SideStore/SideStore/issues/711) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+6. 🗣 Commented on [#711](https://github.com/SideStore/SideStore/issues/711) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 7. 🗣 Commented on [#875](https://github.com/SideStore/SideStore/issues/875) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 8. 🗣 Commented on [#875](https://github.com/SideStore/SideStore/issues/875) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 9. 🗣 Commented on [#875](https://github.com/SideStore/SideStore/issues/875) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
