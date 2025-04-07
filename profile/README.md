@@ -55,12 +55,12 @@ https://github.com/orgs/SideStore/people
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#49](https://github.com/SideStore/SideStore-Docs/issues/49) in [SideStore/SideStore-Docs](https://github.com/SideStore/SideStore-Docs)
-2. ❌ Closed PR [#49](https://github.com/SideStore/SideStore-Docs/pull/49) in [SideStore/SideStore-Docs](https://github.com/SideStore/SideStore-Docs)
-3. 🗣 Commented on [#49](https://github.com/SideStore/SideStore-Docs/issues/49) in [SideStore/SideStore-Docs](https://github.com/SideStore/SideStore-Docs)
-4. 🗣 Commented on [#939](https://github.com/SideStore/SideStore/issues/939) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-5. 🗣 Commented on [#939](https://github.com/SideStore/SideStore/issues/939) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-6. 🗣 Commented on [#939](https://github.com/SideStore/SideStore/issues/939) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+1. ❗️ Closed issue [#941](https://github.com/SideStore/SideStore/issues/941) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+2. 🗣 Commented on [#941](https://github.com/SideStore/SideStore/issues/941) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+3. ❗️ Opened issue [#941](https://github.com/SideStore/SideStore/issues/941) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+4. 🗣 Commented on [#49](https://github.com/SideStore/SideStore-Docs/issues/49) in [SideStore/SideStore-Docs](https://github.com/SideStore/SideStore-Docs)
+5. ❌ Closed PR [#49](https://github.com/SideStore/SideStore-Docs/pull/49) in [SideStore/SideStore-Docs](https://github.com/SideStore/SideStore-Docs)
+6. 🗣 Commented on [#49](https://github.com/SideStore/SideStore-Docs/issues/49) in [SideStore/SideStore-Docs](https://github.com/SideStore/SideStore-Docs)
 7. 🗣 Commented on [#939](https://github.com/SideStore/SideStore/issues/939) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 8. 🗣 Commented on [#939](https://github.com/SideStore/SideStore/issues/939) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 9. 🗣 Commented on [#939](https://github.com/SideStore/SideStore/issues/939) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
@@ -69,12 +69,12 @@ https://github.com/orgs/SideStore/people
 12. 🗣 Commented on [#939](https://github.com/SideStore/SideStore/issues/939) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 13. 🗣 Commented on [#939](https://github.com/SideStore/SideStore/issues/939) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 14. 🗣 Commented on [#939](https://github.com/SideStore/SideStore/issues/939) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-15. 🎉 Merged PR [#62](https://github.com/SideStore/SideStore-Docs/pull/62) in [SideStore/SideStore-Docs](https://github.com/SideStore/SideStore-Docs)
-16. 🎉 Merged PR [#940](https://github.com/SideStore/SideStore/pull/940) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-17. 💪 Opened PR [#940](https://github.com/SideStore/SideStore/pull/940) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-18. 🗣 Commented on [#939](https://github.com/SideStore/SideStore/issues/939) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-19. 🗣 Commented on [#939](https://github.com/SideStore/SideStore/issues/939) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-20. 🗣 Commented on [#939](https://github.com/SideStore/SideStore/issues/939) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+15. 🗣 Commented on [#939](https://github.com/SideStore/SideStore/issues/939) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+16. 🗣 Commented on [#939](https://github.com/SideStore/SideStore/issues/939) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+17. 🗣 Commented on [#939](https://github.com/SideStore/SideStore/issues/939) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+18. 🎉 Merged PR [#62](https://github.com/SideStore/SideStore-Docs/pull/62) in [SideStore/SideStore-Docs](https://github.com/SideStore/SideStore-Docs)
+19. 🎉 Merged PR [#940](https://github.com/SideStore/SideStore/pull/940) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+20. 💪 Opened PR [#940](https://github.com/SideStore/SideStore/pull/940) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 <!--END_SECTION:activity-->
 
 </details>
