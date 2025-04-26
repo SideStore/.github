@@ -55,13 +55,13 @@ https://github.com/orgs/SideStore/people
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#10](https://github.com/SideStore/StosVPN/issues/10) in [SideStore/StosVPN](https://github.com/SideStore/StosVPN)
-2. ❗️ Opened issue [#9](https://github.com/SideStore/StosVPN/issues/9) in [SideStore/StosVPN](https://github.com/SideStore/StosVPN)
-3. 🗣 Commented on [#936](https://github.com/SideStore/SideStore/issues/936) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-4. 🗣 Commented on [#497](https://github.com/SideStore/SideStore/issues/497) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-5. 🗣 Commented on [#962](https://github.com/SideStore/SideStore/issues/962) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-6. ❌ Closed PR [#812](https://github.com/SideStore/SideStore/pull/812) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-7. 🗣 Commented on [#962](https://github.com/SideStore/SideStore/issues/962) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+1. 🗣 Commented on [#951](https://github.com/SideStore/SideStore/issues/951) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+2. ❗️ Opened issue [#10](https://github.com/SideStore/StosVPN/issues/10) in [SideStore/StosVPN](https://github.com/SideStore/StosVPN)
+3. ❗️ Opened issue [#9](https://github.com/SideStore/StosVPN/issues/9) in [SideStore/StosVPN](https://github.com/SideStore/StosVPN)
+4. 🗣 Commented on [#936](https://github.com/SideStore/SideStore/issues/936) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+5. 🗣 Commented on [#497](https://github.com/SideStore/SideStore/issues/497) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+6. 🗣 Commented on [#962](https://github.com/SideStore/SideStore/issues/962) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+7. ❌ Closed PR [#812](https://github.com/SideStore/SideStore/pull/812) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 8. 🗣 Commented on [#962](https://github.com/SideStore/SideStore/issues/962) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 9. 🗣 Commented on [#962](https://github.com/SideStore/SideStore/issues/962) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 10. 🗣 Commented on [#962](https://github.com/SideStore/SideStore/issues/962) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
