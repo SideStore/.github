@@ -55,11 +55,11 @@ https://github.com/orgs/SideStore/people
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1005](https://github.com/SideStore/SideStore/pull/1005) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-2. ❗️ Opened issue [#1004](https://github.com/SideStore/SideStore/issues/1004) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-3. 🗣 Commented on [#999](https://github.com/SideStore/SideStore/issues/999) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+1. 🗣 Commented on [#1005](https://github.com/SideStore/SideStore/issues/1005) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+2. 💪 Opened PR [#1005](https://github.com/SideStore/SideStore/pull/1005) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+3. ❗️ Opened issue [#1004](https://github.com/SideStore/SideStore/issues/1004) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 4. 🗣 Commented on [#999](https://github.com/SideStore/SideStore/issues/999) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-5. 🗣 Commented on [#1000](https://github.com/SideStore/SideStore/issues/1000) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+5. 🗣 Commented on [#999](https://github.com/SideStore/SideStore/issues/999) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 6. 🗣 Commented on [#1000](https://github.com/SideStore/SideStore/issues/1000) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 7. 🗣 Commented on [#1000](https://github.com/SideStore/SideStore/issues/1000) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 8. 🗣 Commented on [#1000](https://github.com/SideStore/SideStore/issues/1000) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
@@ -69,12 +69,12 @@ https://github.com/orgs/SideStore/people
 12. 🗣 Commented on [#1000](https://github.com/SideStore/SideStore/issues/1000) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 13. 🗣 Commented on [#1000](https://github.com/SideStore/SideStore/issues/1000) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 14. 🗣 Commented on [#1000](https://github.com/SideStore/SideStore/issues/1000) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-15. ❗️ Opened issue [#1003](https://github.com/SideStore/SideStore/issues/1003) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-16. ❗️ Opened issue [#1002](https://github.com/SideStore/SideStore/issues/1002) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-17. ❗️ Closed issue [#1001](https://github.com/SideStore/SideStore/issues/1001) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-18. 🗣 Commented on [#1001](https://github.com/SideStore/SideStore/issues/1001) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+15. 🗣 Commented on [#1000](https://github.com/SideStore/SideStore/issues/1000) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+16. ❗️ Opened issue [#1003](https://github.com/SideStore/SideStore/issues/1003) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+17. ❗️ Opened issue [#1002](https://github.com/SideStore/SideStore/issues/1002) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+18. ❗️ Closed issue [#1001](https://github.com/SideStore/SideStore/issues/1001) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 19. 🗣 Commented on [#1001](https://github.com/SideStore/SideStore/issues/1001) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-20. ❗️ Opened issue [#1001](https://github.com/SideStore/SideStore/issues/1001) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+20. 🗣 Commented on [#1001](https://github.com/SideStore/SideStore/issues/1001) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 <!--END_SECTION:activity-->
 
 </details>
