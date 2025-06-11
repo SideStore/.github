@@ -55,16 +55,16 @@ https://github.com/orgs/SideStore/people
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#998](https://github.com/SideStore/SideStore/issues/998) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-2. ❗️ Closed issue [#73](https://github.com/SideStore/sidestore.github.io/issues/73) in [SideStore/sidestore.github.io](https://github.com/SideStore/sidestore.github.io)
-3. ❗️ Opened issue [#73](https://github.com/SideStore/sidestore.github.io/issues/73) in [SideStore/sidestore.github.io](https://github.com/SideStore/sidestore.github.io)
-4. ❗️ Opened issue [#1006](https://github.com/SideStore/SideStore/issues/1006) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-5. 🗣 Commented on [#1005](https://github.com/SideStore/SideStore/issues/1005) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-6. 💪 Opened PR [#1005](https://github.com/SideStore/SideStore/pull/1005) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-7. ❗️ Opened issue [#1004](https://github.com/SideStore/SideStore/issues/1004) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-8. 🗣 Commented on [#999](https://github.com/SideStore/SideStore/issues/999) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+1. ❗️ Closed issue [#134](https://github.com/SideStore/SideStore-Docs/issues/134) in [SideStore/SideStore-Docs](https://github.com/SideStore/SideStore-Docs)
+2. 🗣 Commented on [#998](https://github.com/SideStore/SideStore/issues/998) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+3. ❗️ Closed issue [#73](https://github.com/SideStore/sidestore.github.io/issues/73) in [SideStore/sidestore.github.io](https://github.com/SideStore/sidestore.github.io)
+4. ❗️ Opened issue [#73](https://github.com/SideStore/sidestore.github.io/issues/73) in [SideStore/sidestore.github.io](https://github.com/SideStore/sidestore.github.io)
+5. ❗️ Opened issue [#1006](https://github.com/SideStore/SideStore/issues/1006) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+6. 🗣 Commented on [#1005](https://github.com/SideStore/SideStore/issues/1005) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+7. 💪 Opened PR [#1005](https://github.com/SideStore/SideStore/pull/1005) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+8. ❗️ Opened issue [#1004](https://github.com/SideStore/SideStore/issues/1004) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 9. 🗣 Commented on [#999](https://github.com/SideStore/SideStore/issues/999) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-10. 🗣 Commented on [#1000](https://github.com/SideStore/SideStore/issues/1000) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+10. 🗣 Commented on [#999](https://github.com/SideStore/SideStore/issues/999) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 11. 🗣 Commented on [#1000](https://github.com/SideStore/SideStore/issues/1000) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 12. 🗣 Commented on [#1000](https://github.com/SideStore/SideStore/issues/1000) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 13. 🗣 Commented on [#1000](https://github.com/SideStore/SideStore/issues/1000) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
@@ -74,7 +74,7 @@ https://github.com/orgs/SideStore/people
 17. 🗣 Commented on [#1000](https://github.com/SideStore/SideStore/issues/1000) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 18. 🗣 Commented on [#1000](https://github.com/SideStore/SideStore/issues/1000) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 19. 🗣 Commented on [#1000](https://github.com/SideStore/SideStore/issues/1000) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-20. ❗️ Opened issue [#1003](https://github.com/SideStore/SideStore/issues/1003) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+20. 🗣 Commented on [#1000](https://github.com/SideStore/SideStore/issues/1000) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 <!--END_SECTION:activity-->
 
 </details>
