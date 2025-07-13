@@ -55,11 +55,11 @@ https://github.com/orgs/SideStore/people
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1027](https://github.com/SideStore/SideStore/issues/1027) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-2. 🗣 Commented on [#1027](https://github.com/SideStore/SideStore/issues/1027) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-3. ❗️ Closed issue [#1027](https://github.com/SideStore/SideStore/issues/1027) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-4. ❗️ Opened issue [#1027](https://github.com/SideStore/SideStore/issues/1027) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-5. ❗️ Closed issue [#1025](https://github.com/SideStore/SideStore/issues/1025) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+1. 🗣 Commented on [#1004](https://github.com/SideStore/SideStore/issues/1004) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+2. ❗️ Closed issue [#1027](https://github.com/SideStore/SideStore/issues/1027) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+3. 🗣 Commented on [#1027](https://github.com/SideStore/SideStore/issues/1027) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+4. ❗️ Closed issue [#1027](https://github.com/SideStore/SideStore/issues/1027) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+5. ❗️ Opened issue [#1027](https://github.com/SideStore/SideStore/issues/1027) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 6. 🗣 Commented on [#1026](https://github.com/SideStore/SideStore/issues/1026) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 7. 🗣 Commented on [#1026](https://github.com/SideStore/SideStore/issues/1026) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 8. 🗣 Commented on [#1026](https://github.com/SideStore/SideStore/issues/1026) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
