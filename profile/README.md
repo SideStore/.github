@@ -81,7 +81,7 @@ https://github.com/orgs/SideStore/people
 
 ---
 
-[Homepage][patreon] [Discord][discord] [Twitter][twitter]
+[Homepage][website] [Discord][discord] [Twitter][twitter] [Patreon][patreon]
 
 <!--
 - [Patreon][patreon]
