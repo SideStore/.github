@@ -55,26 +55,26 @@ https://github.com/orgs/SideStore/people
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#33](https://github.com/SideStore/StosVPN/issues/33) in [SideStore/StosVPN](https://github.com/SideStore/StosVPN)
+1. 🗣 Commented on [#24](https://github.com/SideStore/StosVPN/issues/24) in [SideStore/StosVPN](https://github.com/SideStore/StosVPN)
 2. 🗣 Commented on [#33](https://github.com/SideStore/StosVPN/issues/33) in [SideStore/StosVPN](https://github.com/SideStore/StosVPN)
-3. ❗️ Closed issue [#33](https://github.com/SideStore/StosVPN/issues/33) in [SideStore/StosVPN](https://github.com/SideStore/StosVPN)
-4. 🗣 Commented on [#33](https://github.com/SideStore/StosVPN/issues/33) in [SideStore/StosVPN](https://github.com/SideStore/StosVPN)
+3. 🗣 Commented on [#515](https://github.com/SideStore/SideStore/issues/515) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+4. 🗣 Commented on [#30](https://github.com/SideStore/StosVPN/issues/30) in [SideStore/StosVPN](https://github.com/SideStore/StosVPN)
 5. 🗣 Commented on [#33](https://github.com/SideStore/StosVPN/issues/33) in [SideStore/StosVPN](https://github.com/SideStore/StosVPN)
 6. 🗣 Commented on [#33](https://github.com/SideStore/StosVPN/issues/33) in [SideStore/StosVPN](https://github.com/SideStore/StosVPN)
-7. 🗣 Commented on [#33](https://github.com/SideStore/StosVPN/issues/33) in [SideStore/StosVPN](https://github.com/SideStore/StosVPN)
+7. ❗️ Closed issue [#33](https://github.com/SideStore/StosVPN/issues/33) in [SideStore/StosVPN](https://github.com/SideStore/StosVPN)
 8. 🗣 Commented on [#33](https://github.com/SideStore/StosVPN/issues/33) in [SideStore/StosVPN](https://github.com/SideStore/StosVPN)
-9. 🗣 Commented on [#515](https://github.com/SideStore/SideStore/issues/515) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+9. 🗣 Commented on [#33](https://github.com/SideStore/StosVPN/issues/33) in [SideStore/StosVPN](https://github.com/SideStore/StosVPN)
 10. 🗣 Commented on [#33](https://github.com/SideStore/StosVPN/issues/33) in [SideStore/StosVPN](https://github.com/SideStore/StosVPN)
 11. 🗣 Commented on [#33](https://github.com/SideStore/StosVPN/issues/33) in [SideStore/StosVPN](https://github.com/SideStore/StosVPN)
 12. 🗣 Commented on [#33](https://github.com/SideStore/StosVPN/issues/33) in [SideStore/StosVPN](https://github.com/SideStore/StosVPN)
-13. 🗣 Commented on [#33](https://github.com/SideStore/StosVPN/issues/33) in [SideStore/StosVPN](https://github.com/SideStore/StosVPN)
+13. 🗣 Commented on [#515](https://github.com/SideStore/SideStore/issues/515) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 14. 🗣 Commented on [#33](https://github.com/SideStore/StosVPN/issues/33) in [SideStore/StosVPN](https://github.com/SideStore/StosVPN)
 15. 🗣 Commented on [#33](https://github.com/SideStore/StosVPN/issues/33) in [SideStore/StosVPN](https://github.com/SideStore/StosVPN)
 16. 🗣 Commented on [#33](https://github.com/SideStore/StosVPN/issues/33) in [SideStore/StosVPN](https://github.com/SideStore/StosVPN)
 17. 🗣 Commented on [#33](https://github.com/SideStore/StosVPN/issues/33) in [SideStore/StosVPN](https://github.com/SideStore/StosVPN)
 18. 🗣 Commented on [#33](https://github.com/SideStore/StosVPN/issues/33) in [SideStore/StosVPN](https://github.com/SideStore/StosVPN)
-19. ❗️ Opened issue [#33](https://github.com/SideStore/StosVPN/issues/33) in [SideStore/StosVPN](https://github.com/SideStore/StosVPN)
-20. 🗣 Commented on [#30](https://github.com/SideStore/StosVPN/issues/30) in [SideStore/StosVPN](https://github.com/SideStore/StosVPN)
+19. 🗣 Commented on [#33](https://github.com/SideStore/StosVPN/issues/33) in [SideStore/StosVPN](https://github.com/SideStore/StosVPN)
+20. 🗣 Commented on [#33](https://github.com/SideStore/StosVPN/issues/33) in [SideStore/StosVPN](https://github.com/SideStore/StosVPN)
 <!--END_SECTION:activity-->
 
 </details>
